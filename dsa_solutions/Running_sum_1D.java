@@ -1,4 +1,4 @@
-package Day1;
+package dsa_solutions;
 import java.util.Scanner;
 public class Running_sum_1D {
     public static void main(String[] args) {

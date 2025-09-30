@@ -1,4 +1,4 @@
-package Day2;
+package dsa_solutions;
 
 import java.util.Scanner;
 
